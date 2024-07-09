@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Perl5LocalSettings">
+    <option name="perlInterpreter" value="Wsl[ubuntu], Perlbrew[perl-5.40.0]: Perl 5.40.0" />
+  </component>
+  <component name="Perl5XSubsState">
+    <option name="myFilesMap">
+      <map>
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/B/B.so" value="1720388838461" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Compress/Raw/Bzip2/Bzip2.so" value="1720388838451" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Compress/Raw/Zlib/Zlib.so" value="1720388838451" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Cwd/Cwd.so" value="1720388838431" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Data/Dumper/Dumper.so" value="1720388838431" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Devel/Peek/Peek.so" value="1720388838431" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Digest/MD5/MD5.so" value="1720388838441" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Digest/SHA/SHA.so" value="1720388838441" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Encode/Byte/Byte.so" value="1720388838461" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Encode/CN/CN.so" value="1720388838451" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Encode/EBCDIC/EBCDIC.so" value="1720388838461" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Encode/Encode.so" value="1720388838451" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Encode/JP/JP.so" value="1720388838451" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Encode/KR/KR.so" value="1720388838461" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Encode/Symbol/Symbol.so" value="1720388838461" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Encode/TW/TW.so" value="1720388838451" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Encode/Unicode/Unicode.so" value="1720388838451" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Fcntl/Fcntl.so" value="1720388838461" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/File/DosGlob/DosGlob.so" value="1720388838441" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/File/Glob/Glob.so" value="1720388838441" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Filter/Util/Call/Call.so" value="1720388838461" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Hash/Util/FieldHash/FieldHash.so" value="1720388838441" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Hash/Util/Util.so" value="1720388838441" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/I18N/Langinfo/Langinfo.so" value="1720388838451" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/IO/IO.so" value="1720388838451" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/IPC/SysV/SysV.so" value="1720388838451" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/List/Util/Util.so" value="1720388838441" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/MIME/Base64/Base64.so" value="1720388838441" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Math/BigInt/FastCalc/FastCalc.so" value="1720388838441" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Opcode/Opcode.so" value="1720388838441" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/POSIX/POSIX.so" value="1720388838441" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/PerlIO/encoding/encoding.so" value="1720388838441" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/PerlIO/mmap/mmap.so" value="1720388838441" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/PerlIO/via/via.so" value="1720388838441" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/SDBM_File/SDBM_File.so" value="1720388838441" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Socket/Socket.so" value="1720388838431" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Storable/Storable.so" value="1720388838441" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Sys/Hostname/Hostname.so" value="1720388838441" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Sys/Syslog/Syslog.so" value="1720388838441" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Time/HiRes/HiRes.so" value="1720388838461" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Time/Piece/Piece.so" value="1720388838461" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Unicode/Collate/Collate.so" value="1720388838431" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/Unicode/Normalize/Normalize.so" value="1720388838431" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/attributes/attributes.so" value="1720388838451" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/mro/mro.so" value="1720388838441" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/re/re.so" value="1720388838441" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/threads/shared/shared.so" value="1720388838451" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/5.40.0/x86_64-linux/auto/threads/threads.so" value="1720388838451" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/site_perl/5.40.0/x86_64-linux/Devel/auto/Devel/NYTProf/NYTProf.so" value="1720398133000" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/site_perl/5.40.0/x86_64-linux/auto/Clone/Clone.so" value="1720398146000" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/site_perl/5.40.0/x86_64-linux/auto/Cpanel/JSON/XS/XS.so" value="1720398129000" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/site_perl/5.40.0/x86_64-linux/auto/Devel/Cover/Cover.so" value="1720398154000" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/site_perl/5.40.0/x86_64-linux/auto/Devel/NYTProf/NYTProf.so" value="1720398133000" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/site_perl/5.40.0/x86_64-linux/auto/HTML/Parser/Parser.so" value="1720398153000" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/site_perl/5.40.0/x86_64-linux/auto/Hash/StoredIterator/StoredIterator.so" value="1720398107000" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/site_perl/5.40.0/x86_64-linux/auto/JSON/XS/XS.so" value="1720398115000" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/site_perl/5.40.0/x86_64-linux/auto/List/SomeUtils/XS/XS.so" value="1720398164000" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/site_perl/5.40.0/x86_64-linux/auto/PadWalker/PadWalker.so" value="1720398109000" />
+        <entry key="//wsl.localhost/Ubuntu/home/tux/perl5/perlbrew/perls/perl-5.40.0/lib/site_perl/5.40.0/x86_64-linux/auto/Params/Util/Util.so" value="1720398175000" />
+      </map>
+    </option>
+  </component>
+</project>
