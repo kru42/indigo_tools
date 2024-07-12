@@ -1,4 +1,4 @@
-#pragma description QUANTIC DREAM container format
+#pragma description Quantic Dream container format
 
 import std.core;
 import std.io;

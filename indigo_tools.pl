@@ -151,6 +151,7 @@ for (my $i = 0; $i < 16 * $files_num; $i += 16) {
     $file_id = sprintf "%X", $file_id;
 
     my $fh_data;
+    $dat_file = "BigFile_PC.";
     if ($data_file_id == 0) {
         $dat_file .= 'dat';
         $fh_data = $dat_0;
@@ -174,6 +175,9 @@ for (my $i = 0; $i < 16 * $files_num; $i += 16) {
     else {
         die "unknown data file id '$data_file_id'";
     }
+
+    Log::debug("file_id: %s, data_offset: %08x, data_len: %d, data_file: %s",
+        $file_id, $data_offset, $data_len, $dat_file);
 
     seek $fh_data, $data_offset, 0;
     read $fh_data, my $extracted_data, $data_len;
@@ -199,7 +203,7 @@ for (my $i = 0; $i < 16 * $files_num; $i += 16) {
 
     Log::debug("extracting " . basename($out_filepath) . "...");
 
-    open my $fh_out, '>:raw', $out_filepath  or die "could not open file for writing: $!";
+    open my $fh_out, '>:raw', $out_filepath or die "could not open file for writing: $!";
     print $fh_out $extracted_data;
     close $fh_out;
 }
