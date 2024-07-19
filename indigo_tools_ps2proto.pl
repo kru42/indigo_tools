@@ -27,11 +27,7 @@ use constant {
 
 # these are only PC now, probably
 my @DATA_FILENAMES = (
-    "BigFile_PC.dat",
-    "BigFile_PC.d01",
-    "BigFile_PC.d02",
-    "BigFile_PC.d03",
-    "BigFile_PC.d04"
+    "BigFile_PC.dat"
 );
 
 sub display_help {
@@ -61,7 +57,7 @@ sub peek {
 # script start
 #
 print "===========================================================\n"
-    . "--- $0 --- Fahrenheit Remastered data tool ---\n"
+    . "--- $0 --- Fahrenheit PS2 jun 2005 prototype data tool ---\n"
     . "===========================================================\n\n";
 
 my $log_level = 1;
